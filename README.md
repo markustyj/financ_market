@@ -24,3 +24,8 @@ lessen 3 insurance
 Risk Pooling is the source of all value in insurance
 Moral Hazard dealt with partially by deductions and coinsurance
 Selection Bias dealt with by group policies, by testing and referrals, and by mandatory government insurance
+
+
+
+Lesson 4
+CAPM (capital asset pricing model), diversification, Equity premium 
