@@ -7,7 +7,7 @@ notes for the coursera course financial market
 VAR - variance and value at risk
 stress test
 
-<b>Beta<\b> measures the sensitivity of a stock's returns to the returns of the overall market.
+<b>Beta</b> measures the sensitivity of a stock's returns to the returns of the overall market.
 A beta of 1 indicates that the security's price tends to move with the market.
 A beta greater than 1 indicates that the security is more volatile than the market.
 A negative beta indicates an inverse relationship with the market.
@@ -43,7 +43,7 @@ Efficient market, CAPM (capital asset pricing model
 
 
 ## lesson 7
-Key Components of <b>Prospect Theory<\b>:
+Key Components of <b>Prospect Theory</b>:
 
 Value Function:Loss Aversion: Losses loom larger than gains. This means that the pain of losing is psychologically more impactful than the pleasure of an equivalent gain.
 Diminishing Sensitivity: The value function is concave for gains and convex for losses, reflecting diminishing sensitivity. This means that the difference in value between $100 and $200 feels greater than the difference between $1,100 and $1,200.
