@@ -72,6 +72,11 @@ Underweighting Large Probabilities: Conversely, people tend to underestimate the
 
 11 Antisocial Personality Disorder (sociopathy,  Diagnostic and Statistical Manual 5) 
 
+## lesson 8
+federal funds and interest rate, compound interest, discount bonds贴现债券, present discounted value现值， 
 
+consol and annuity formulas 统一年金和年金公式,  The main difference between an annuity and a corporate bond is that there is no principal repayment at maturity in an annuity. 年金与公司债券的主要区别在于，年金到期时无需偿还本金。
+
+forward rate and expectation theory远期利率和预期理论
 
 
