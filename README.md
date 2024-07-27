@@ -83,3 +83,6 @@ Formula for Forward Rates
 The forward rate between two periods can be calculated using the following formula:
 ![image](https://github.com/user-attachments/assets/7b39eaf4-8ba7-4b86-abb9-2f086e443bc5)
 
+## lesson 9
+market capitalization, corperarion, 
+
