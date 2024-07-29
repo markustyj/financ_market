@@ -84,5 +84,5 @@ The forward rate between two periods can be calculated using the following formu
 ![image](https://github.com/user-attachments/assets/7b39eaf4-8ba7-4b86-abb9-2f086e443bc5)
 
 ## lesson 9
-market capitalization, corperarion, 
+market capitalization, corperarion, common vs. preferred stock, corporate charter, classes of shares (common shares, perferred shares, non-voting shares, class A and class B shares
 
